@@ -34,7 +34,7 @@ I am a passionate Junior Full-Stack Developer focused on building modern, scalab
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### 🧰 Tools
