@@ -40,7 +40,7 @@ I am a passionate Junior Full-Stack Developer focused on building modern, scalab
 ### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </p>
 
 ---
