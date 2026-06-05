@@ -58,15 +58,7 @@ I am a passionate Junior Full-Stack Developer focused on building modern, scalab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supayangit&show_icons=true&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=supayangit" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supayangit&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
