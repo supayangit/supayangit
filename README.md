@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Supayan%20Chakma&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 👋 Hi, I'm **Supayan Chakma**
+# 👋 Hi, I'm **Supayan**
 
 ### 🚀 Junior Full-Stack Developer
 
