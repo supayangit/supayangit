@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm **Supayan**
 
-### 🚀 Junior Full-Stack Developer
+### 🚀 Full-Stack Developer
 
 ---
 
